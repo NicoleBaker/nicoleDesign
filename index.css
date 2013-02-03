@@ -1,0 +1,18 @@
+body {
+	background-color: #ffffff;
+}
+#nav_text {
+	font-family: Charlemagne Std;
+	color: #92cfde;
+	font-size: 1.5em;
+}
+.links {
+	color: #92cfde;
+}
+a:hover {
+	color: #04b4e0;
+	text-decoration: none;
+}
+#logo {
+	margin-top: 70px;
+}

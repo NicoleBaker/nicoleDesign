@@ -1,0 +1,80 @@
+body {
+	background-color: #ffffff;
+}
+#content_body {
+	background-color: #ffffff;
+}
+#logo_header {
+	background-color: #ffffff;
+	padding: 20px 0px 0px 0px;
+}
+#nav_text {
+	font-family: Charlemagne Std;
+	color: #92cfde;
+	font-size: 1.5em;
+	position: relative;
+	top: -50px;
+	padding: 0px 10px 0px 0px;
+}
+.links {
+	color: #92cfde;
+}
+#ovooko-link {
+	color: #fdf494;
+	font-weight: 600;
+	text-shadow: 0 1px 1px rgba(191,180,67,0.4);
+}
+a:hover {
+	color: #04b4e0;
+	text-decoration: none;
+}
+#profile {
+	position: relative;
+	top: -400px;
+	left: 90px;
+}
+#text_body {
+	font-family: HelveticaNeue-UltraLight, Helvetica Neue UltraLight, Helvetica Neue, Arial, Helvetica, sans-serif;
+	color: #058bac;
+	font-size: 1.5em;
+	margin: 0px 10px 0px 0px;
+	letter-spacing: 1px;
+}
+#rain_large {
+	margin: -25px 0px 0px -5px;
+	opacity: 0.8;
+}
+
+#bb-custom-grid {
+	position: relative;
+	top: -930px;
+}
+/*ul.bb-custom-grid li h3 {
+	color: #ffffff;
+}*/
+#contact_image {
+	margin: -20px 0px;
+	opacity: 0.3;
+}
+#contact-container {
+	position: relative;
+	top: -275px;
+	left: 190px;
+	text-align: center;
+}
+.contact-text {
+	position: relative;
+	top: -140px;
+	font-family: HelveticaNeue, Helvetica Neue, Arial, Helvetica, sans-serif;
+	color: #69acbc;
+	font-size: 1.5em;
+	letter-spacing: 1px;
+}
+#contact-link {
+	color: #69acbc;
+}
+
+
+
+
+
