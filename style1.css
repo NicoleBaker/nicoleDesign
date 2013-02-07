@@ -1,0 +1,32 @@
+#header {
+	margin-top: 10px;
+	background: url("images/logo_header4.png") no-repeat;
+	background-size: 100% auto;
+	min-height: 225px;
+}
+#link-container {
+	margin-top: 185px;
+	font-family: Charlemagne Std;
+	color: #92cfde;
+	font-size: 1.5em;
+	float: right;
+	width: 404px;
+}
+#link-container > a {
+	color: #92cfde;
+	padding: 0px 10px 0px 0px;
+}
+#contact-container {
+	background: url("images/portfolio/octagon_multiple7.png") no-repeat;
+	background-size: 100% auto;
+	height: 580px;
+}
+#contact-nicole {
+	margin-top: 300px;
+	margin-left: 547px;
+	text-align: center;
+	font-size: 1.6em;
+}
+#contact-nicole a {
+	color: #92cfde;	
+}
