@@ -32,12 +32,27 @@ a:hover {
 	background: url("images/rain_profile.png") no-repeat;
 	background-size: 100%;
 	height: 433px;
+	opacity: 0.85;
 }
-#text_body {
-	font-family: HelveticaNeue-UltraLight, Helvetica Neue UltraLight, Helvetica Neue, Arial, Helvetica, sans-serif;
-	color: #058bac;
-	font-size: 1.5em;
-	margin: 30px 10px 0px 0px;
+#about-text-position {
+	margin-top: 60px;
+}
+#first-letter {
+	float: left;
+	font-family: Charlemagne Std;
+	color: #92cfde;
+	font-size: 7em;
+	margin: 45px 5px 5px 0px;
+}
+p #text_body {
+	float:left;
+}
+#text-body {
+	display: inline;
+	font-family: Lucida Grande, Lucida Sans Unicode, Helvetica, Arial, Verdana, sans-serif;
+	color: #92cfde;
+	font-size: 1em;
+	margin: 75px 10px 0px 0px;
 	letter-spacing: 1px;
 }
 #bb-custom-grid {
@@ -71,6 +86,166 @@ a:hover {
 	margin-top: -20px;
 	margin-left: 147px;
 }
+.img-content {
+	background-color: #fbfbfb;
+}
+#icon_scroll {
+	margin-top: 15px;
+}
+.icon_img {
+	padding: 10px 20px 10px 15px;
+}
+.portfolio-text {
+	font-family: Lucida Grande, Lucida Sans Unicode, Helvetica, Arial, Verdana, sans-serif;
+	font_weight: 600px;
+	font-size: 3.5em;
+	letter-spacing: 1px;
+	line-height: 55px;
+	text-align: center;
+	color: #92cfde;
+}
+.port-img {
+	margin-top: 20px;
+	margin-bottom: 20px;
+/*	-moz-box-shadow: -2px 1px 4px #d2d2d2;
+	-webkit-box-shadow: -2px 1px 4px #d2d2d2;
+	box-shadow: -2px 1px 4px #d2d2d2;*/
+}
+.port-text-container {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.see-more {
+	font-family: Lucida Grande, Lucida Sans Unicode, Helvetica, Arial, Verdana, sans-serif;
+	font_weight: 300px;
+	font-size: 1em;
+	letter-spacing: 1px;
+	text-align: center;
+	color: #92cfde;
+	position: relative;
+}
+#ovooko-link-position {
+	left: 110px;
+}
+#ovooko-text-position {
+	margin-top: 20px;
+}
+#ovooko-down {
+	margin-top: 10px;
+	margin-left: 220px;
+}
+#auth-link-position {
+	left: 85px;
+}
+#auth-text-position {
+	margin-top: 30px;
+}
+#auth-down {
+	margin-top: 10px;
+	margin-left: 220px;
+}
+#tea-link-position {
+	left: 72px;
+}
+#tea-text-position {
+	margin-top: 105px;
+}
+#tea-down {
+	margin-top: 10px;
+	margin-left: 220px;
+}
+#corp-link-position {
+	left: 45px;
+}
+#corp-text-position {
+	margin-top: 15px;
+}
+#corp-down {
+	margin-top: 10px;
+	margin-left: 220px;
+}
+#corp-photo-position {
+	margin-top: 5px;
+}
+#geo-link-position {
+	left: 95px;
+}
+#geo-photo-position {
+	margin-top: 5px;
+}
+#geo-down {
+	margin-top: 10px;
+	margin-left: 220px;
+}
+#geo-text-position {
+	margin-top: -5px;
+}
+#transactional-text-position {
+	margin-top: 100px;
+}
+#transactional-link-position {
+	left: 38px;
+}
+#transactional-photo-position {
+
+}
+#transactional-down {
+	margin-top: 15px;
+	margin-left: 220px;
+}
+#copywrite {
+	font-family: Lucida Grande, Lucida Sans Unicode, Helvetica, Arial, Verdana, sans-serif;
+	font_weight: 300px;
+	font-size: 1em;
+	text-align: center;
+	color: #92cfde;
+	margin-top: 20px;
+}
+.link-animation:hover {
+	cursor: pointer;
+}
+.action-arrow {
+}
+.more-content {
+	margin: 30px 0px 30px 0px;
+}
+.large_port_img {
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+.icon_and_title {
+	text-align: center;
+	margin-top: 70px;
+	margin-bottom: 70px;
+}
+/*.icon_and_title_title {
+	float: left;
+}*/
+.icon_and_title_body {
+	font-family: Lucida Grande, Lucida Sans Unicode, Helvetica, Arial, Verdana, sans-serif;
+	font_weight: 300px;
+	font-size: 1.5em;
+	color: #92cfde;
+}
+.link-animation-closer {
+	color: #b7b7b7;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.circles-top {
+	margin-top: 20px;
+	margin-bottom: 40px;
+}
+.circles-bottom {
+	margin-top: 40px;
+	margin-bottom: 0px;
+}
+.bus_icon {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+
 
 
 
