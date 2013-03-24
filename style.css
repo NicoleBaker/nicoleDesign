@@ -1,5 +1,7 @@
 body {
 	background-color: #ffffff;
+/*	background-image: url('images/portfolio/furley.png');
+	background-repeat: repeat;*/
 }
 #header {
 	margin-top: 10px;
@@ -187,11 +189,14 @@ p #text_body {
 	left: 38px;
 }
 #transactional-photo-position {
-
+/*	margin-bottom: -20px;*/
 }
 #transactional-down {
 	margin-top: 15px;
 	margin-left: 220px;
+}
+#transactional_icon_and_title {
+	margin-top: 0px;
 }
 #copywrite {
 	font-family: Lucida Grande, Lucida Sans Unicode, Helvetica, Arial, Verdana, sans-serif;
@@ -226,7 +231,7 @@ p #text_body {
 .action-arrow {
 }
 .more-content {
-	margin: 30px 0px 30px 0px;
+	margin: -30px 0px 30px 0px;
 }
 .large_port_img {
 	margin-top: 40px;
@@ -234,8 +239,11 @@ p #text_body {
 }
 .icon_and_title {
 	text-align: center;
-	margin-top: 70px;
+	margin-top: 30px;
 	margin-bottom: 70px;
+}
+.icon_and_title h1 {
+	font-size: 3.5em;
 }
 /*.icon_and_title_title {
 	float: left;
@@ -251,13 +259,9 @@ p #text_body {
 	margin-top: 20px;
 	margin-bottom: 20px;
 }
-.circles-top {
+.circles {
 	margin-top: 20px;
-	margin-bottom: 40px;
-}
-.circles-bottom {
-	margin-top: 40px;
-	margin-bottom: 0px;
+	bottom: 0px;
 }
 .bus_icon {
 	margin-top: 20px;
