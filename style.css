@@ -200,6 +200,25 @@ p #text_body {
 	text-align: center;
 	color: #92cfde;
 	margin-top: 20px;
+	margin-bottom: 20px;
+}
+#copywrite_about {
+	font-family: Lucida Grande, Lucida Sans Unicode, Helvetica, Arial, Verdana, sans-serif;
+	font_weight: 300px;
+	font-size: 1em;
+	text-align: center;
+	color: #92cfde;
+	margin-top: 100px;
+	margin-bottom: 20px;
+}
+#copywrite-contact {
+	font-family: Lucida Grande, Lucida Sans Unicode, Helvetica, Arial, Verdana, sans-serif;
+	font_weight: 300px;
+	font-size: 1em;
+	text-align: center;
+	color: #92cfde;
+	margin-top: 20px;
+	margin-bottom: 40px;
 }
 .link-animation:hover {
 	cursor: pointer;
@@ -243,6 +262,9 @@ p #text_body {
 .bus_icon {
 	margin-top: 20px;
 	margin-bottom: 20px;
+}
+#separator-top {
+	margin-top: 30px;
 }
 
 
