@@ -4,18 +4,23 @@ body {
 	background-repeat: repeat;*/
 }
 #header {
-	margin-top: 10px;
-	background: url("images/logo_header4.png") no-repeat;
+	margin-top: 30px;
+/*	background: url("images/logo_header4.png") no-repeat;
 	background-size: 100% auto;
-	min-height: 225px;
+	min-height: 225px;*/
+	position: relative;
+	z-index: 1;
 }
 #link-container {
-	margin-top: 185px;
+/*	margin-top: 185px;*/
+	margin-top: -40px;
 	font-family: Charlemagne Std;
 	color: #92cfde;
 	font-size: 1.5em;
 	float: right;
 	width: 404px;
+	position: relative;
+	z-index: 2;
 }
 #link-container > a {
 	color: #92cfde;
