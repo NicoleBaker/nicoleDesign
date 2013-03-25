@@ -13,7 +13,9 @@ body {
 }
 #link-container {
 /*	margin-top: 185px;*/
-	margin-top: -40px;
+	margin-top: -145px;
+	padding-top: 100px;
+	padding-bottom: 20px;
 	font-family: Charlemagne Std;
 	color: #92cfde;
 	font-size: 1.5em;
